@@ -1,0 +1,152 @@
+[
+    {
+      "_id": "64e72156878130a91eeb4181",
+      "age": 56,
+      "name": "Prashanth Neel",
+      "role": "Director",
+      "country": "India",
+      "gender": "Male",
+      "img": "https://wikibio.in/wp-content/uploads/2022/04/Prashanth-Neel.jpg",
+      "amount": 10000000
+    },
+    {
+      "_id": "64e721560c9cc35be9542971",
+      "age": 43,
+      "name": "Vijay Kirangandur",
+      "role": "Producer",
+      "country": "India",
+      "gender": "male",
+      "img": "https://wikibio.in/wp-content/uploads/2023/08/Vijay-Kiragandur.jpg",
+      "amount": 10000000
+    },
+    {
+      "_id": "64e72156f8307696f5f44b53",
+      "age": 34,
+      "name": "Yash",
+      "role": "Hero",
+      "country": "India",
+      "gender": "Male",
+      "img": "https://static.toiimg.com/thumb/msid-90044561,width-960,height-1280,resizemode-6.cms",
+      "amount": 70000000
+    },
+    {
+      "_id": "64e72156d49cdf6509704255",
+      "age": 52,
+      "name": "Sanjay Dutt",
+      "role": "Villain",
+      "country": "India",
+      "gender": "Male",
+      "img": "https://images.indulgexpress.com/uploads/user/imagelibrary/2022/4/22/original/SanjayDuttasAdheerainKGFChapter2.jpg",
+      "amount": 30000000
+    },
+    {
+      "_id": "64e721567e8a7c0e6c269570",
+      "age": 51,
+      "name": "Raveena Tandon",
+      "role": "Actress",
+      "country": "India",
+      "gender": "Female",
+      "img": "https://cdn.bollywoodmdb.com/fit-in/post/raveenatcioins_1650466249040.jpg",
+      "amount": 20000000
+    },
+    {
+      "_id": "64e721566316a6cafc55be7b",
+      "age": 26,
+      "name": "Srinidhi Shetty",
+      "role": "Heroine",
+      "country": "India",
+      "gender": "Female",
+      "img": "https://pbs.twimg.com/profile_images/1557020459492790272/l_JUU1bY_400x400.jpg",
+      "amount": 50000000
+    },
+    {
+      "_id": "64e721566ba7d7e29cae1c98",
+      "age": 40,
+      "name": "Prakash Raj",
+      "role": "Actor",
+      "country": "India",
+      "gender": "Male",
+      "img": "https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/chandrayaan_3_Prakash_Raj_1692598902047_1692598902253.jpg",
+      "amount": 5000000
+    },
+    {
+      "_id": "64e721565178c1c571519411",
+      "age": 40,
+      "name": "Archana Jois",
+      "role": "Actress",
+      "country": "India",
+      "gender": "Female",
+      "img": "https://static.toiimg.com/thumb/msid-91099213,width-1280,resizemode-4/91099213.jpg",
+      "amount": 7000000
+    },
+    {
+      "_id": "64e72156841ed37eaa5110ca",
+      "age": 55,
+      "name": "Achyuth Kumar",
+      "role": "Actor",
+      "country": "India",
+      "gender": "Male",
+      "img": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/achyuth-kumar-19493-1679753090.jpg",
+      "amount": 10000000
+    },
+    {
+      "_id": "64e721562e7def99e77ac69d",
+      "age": 53,
+      "name": "Vasishtaa N. Simha",
+      "role": "Actor",
+      "country": "India",
+      "gender": "Male",
+      "img": "https://i2.cinestaan.com/image-bank/1500-1500/204001-205000/204971.png",
+      "amount": 30000000
+    },
+    {
+      "_id": "64e72156db69816c5e165785",
+      "age": 37,
+      "name": "Rao Ramesh",
+      "role": "Actor",
+      "country": "India",
+      "gender": "Male",
+      "img": "https://starsunfolded.com/wp-content/uploads/2018/01/Rao-Ramesh.jpg",
+      "amount": 5000000
+    },
+    {
+      "_id": "64e721567073a27157a250ea",
+      "age": 53,
+      "name": "T.S. Nagabharana",
+      "role": "Actor",
+      "country": "India",
+      "gender": "Male",
+      "img": "https://m.media-amazon.com/images/M/MV5BYjFjODc4N2ItNjE1Ny00MjM5LWJlZDgtMjQxYzcxZDEyZjg4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+      "amount": 7000000
+    },
+    {
+      "_id": "64e721566c843706f37473d6",
+      "age": 42,
+      "name": "Malavika Avinash",
+      "role": "Actor",
+      "country": "India",
+      "gender": "Female",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Malavika_Avinash.jpg",
+      "amount":5000000
+    },
+    {
+      "_id": "64e721564fb18c70964edf3c",
+      "age": 36,
+      "name": "Ramachandrta Raju",
+      "role": "Villain",
+      "country": "India",
+      "gender": "Male",
+      "img": "https://static.toiimg.com/thumb/msid-80614509,width-1280,resizemode-4/80614509.jpg",
+      "amount": 10000000
+    },
+    {
+      "_id": "64e72156af81345532c32047",
+      "age": 50,
+      "name": "Bhuvan Gowda",
+      "role": "Cinematography",
+      "country": "India",
+      "gender": "male",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/BhuvanGowda1.jpg",
+      "amount": 2000000
+    }
+  ]

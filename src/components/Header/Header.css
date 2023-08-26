@@ -1,0 +1,9 @@
+.header{
+    text-align: center;
+    background-color: rgb(50, 39, 25);
+    line-height: 45px;
+    text-decoration: none;
+    color: rgb(223, 172, 172);
+    margin: 20px;
+    border-radius: 10px;
+}

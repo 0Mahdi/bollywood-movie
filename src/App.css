@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+  background-image: url(./images/1.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%; /* This will cover the entire container */
+  background-position: center center; /* Center the image */
 }
 
 .App-logo {
